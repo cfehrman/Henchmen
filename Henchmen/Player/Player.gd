@@ -3,7 +3,7 @@ extends KinematicBody2D
 
 
 #Physics Variables
-export var speed = 190
+export var speed = 200
 export var gravity = 20
 export var jump_power = -500
 const FLOOR = Vector2(0,-1)
